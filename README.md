@@ -1,5 +1,5 @@
 # React Trello APP Project
-Welcome to the React Trello APP Project. A [Trello](http://trello.com) like board based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React-beautiful-dnd]https://github.com/atlassian/react-beautiful-dnd). At the moment it has Drag-and-drop, edit, delete, create & update list functionalities.
+Welcome to the React Trello APP Project. A [Trello](http://trello.com) like board based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd). At the moment it has Drag-and-drop, edit, delete, create & update list functionalities.
 
 ## Live demo
 For a live demo of the project have a look at https://react-trello-app-project.netlify.app/
